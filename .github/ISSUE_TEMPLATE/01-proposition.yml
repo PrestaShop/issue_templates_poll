@@ -5,7 +5,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        ###️ Read this before submitting your bug report:
+        ###❗️ Read this before submitting your bug report:
         - **Write in English.** Reports in all other languages will be closed.
         - **Provide as much detail as possible** - error logs, screenshots, your exact configuration. If the issue cannot be reproduced, it cannot be fixed.
         - **Follow the [bug report guidelines](https://devdocs.prestashop-project.org/9/contribute/contribute-reporting-issues/#best-practices-for-writing-an-issue).** This will help issue managers qualify your report faster.
