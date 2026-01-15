@@ -1,7 +1,6 @@
 name: Proposition n°2 - Bug Report
 description: Report an issue in module. DO NOT disclose security issues here, contact security@prestashop.com instead!
-type: 'Bug'
-title: ''
+title: ""
 body:
   - type: markdown
     attributes:
@@ -73,4 +72,3 @@ body:
     id: sponsor-company
     attributes:
       label: Your company or customer's name goes here (if applicable).
-
