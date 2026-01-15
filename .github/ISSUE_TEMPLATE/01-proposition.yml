@@ -1,6 +1,6 @@
 name: Proposition n°1 - Bug Report
 description: Report an issue in module. DO NOT disclose security issues here, contact security@prestashop.com instead!
-title: ""
+type: 'Bug'
 body:
   - type: markdown
     attributes:
@@ -39,8 +39,8 @@ body:
         1. Go to ‘…’
         2. Click on ‘…’
         3. Scroll down to ‘…’
-      validations:
-        required: true
+    validations:
+      required: true
   - type: textarea
     id: expected-behavior
     attributes:
@@ -50,8 +50,8 @@ body:
         1. Page is displayed
         2. Modal ‘…’ is displayed
         3. ‘…’ is displayed
-      validations:
-        required: true
+    validations:
+      required: true
   - type: textarea
     id: actual-results
     attributes:
@@ -62,8 +62,8 @@ body:
         2. Modal ‘…’ is displayed
         3. ‘…’ is not displayed**
         **Screenshots :**
-      validations:
-        required: true
+    validations:
+      required: true
   - type: textarea
     id: remark
     attributes:
