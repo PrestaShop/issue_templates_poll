@@ -1,5 +1,5 @@
 name: Proposition n°1 - Bug Report
-description: Report an issue in module. DO NOT disclose security issues here, contact security@prestashop.com instead!
+description: Report an issue. DO NOT disclose security issues here, contact security@prestashop.com instead!
 type: 'Bug'
 body:
   - type: markdown
